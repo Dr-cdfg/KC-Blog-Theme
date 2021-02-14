@@ -2,7 +2,6 @@
 [KC Blog](https://blog.kcblog.asia)网站官方主题，基于[Typecho](https://typecho.org/)默认主题修改，正在持续更新！
 
 使用谷歌MD设计风格（MDUI）,部分UI及逻辑功能借鉴Materiality Typecho Theme。
-<img src="https://github.com/Dr-cdfg/KC-Blog-Theme/raw/main/screenshot.png">
 最后更新（1.5）
 
 cdfg@kcblog.asia
