@@ -6,6 +6,8 @@ body {
 
 	font-size: 87.5%;
 
+        height: inherit;
+
 /*
 
 	font-family: "Droid Serif",Georgia,"Times New Roman","PingFang SC","Hiragino Sans GB","Source Han Sans CN","WenQuanYi Micro Hei","Microsoft Yahei",serif;
@@ -936,31 +938,19 @@ img.alignright {
 
 /*
 
-滚动条
+侧边栏隐藏滚动条
 
 */
 
-body::-webkit-scrollbar {
+#left-drawer::-webkit-scrollbar {
 
-	width: 0.7em;
-
-}
-
-
-
-body::-webkit-scrollbar-track {
-
-	-webkit-box-shadow: inset 0 0 6px #C2C2C2;
+        width: 0 !important;
 
 }
 
+#left-drawer {
 
-
-body::-webkit-scrollbar-thumb {
-
-	background-color: #005EAC;
-
-	outline: 1px solid slategrey;
+    overflow: -moz-scrollbars-none;
 
 }
 

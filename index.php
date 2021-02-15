@@ -10,7 +10,7 @@
 
  * @author Katherine cdfg
 
- * @version 1.5
+ * @version 1.5.1
 
  * @link https://blog.kcblog.asia/
 
@@ -57,7 +57,16 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 <!-- 底部翻页栏开始 -->
 <br/>
 <br/>
+
+
+
     <?php $this->pageNav('<', '>'); ?>
+
+
+
+
+
+
 <br/>
 <br/>
 <!-- 结束 -->

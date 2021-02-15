@@ -12,7 +12,7 @@
 <br/>
 <div class="mdui-divider"></div>
 
-<footer id="footer" role="contentinfo">
+<footer id="footer" role="contentinfo" class="mdui-color-theme">
 
 <!--
 
